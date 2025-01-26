@@ -1,4 +1,4 @@
-const POST_URL = "WEBBHOOK URL";
+const POST_URL = "https://discordapp.com/api/webhooks/1332864933377085441/p6AWUyoMAJVBNOclLoa4MT-rephHR813yFUnNUhU7YWAprqiOrmcz4XRIuM6ai1vuEcD";
 
 function onSubmit(e) {
     const response = e.response.getItemResponses();
